@@ -1,9 +1,5 @@
-# Data Scientist
-/// education
-hfjhqwe
+# Lead Talent Acquisition 
 
-/// work expereince 
-sata scient @ toyoto 
-- big omoact
+/// Education
+B.Com (Finance & Accounting)
 
-/// Project 
